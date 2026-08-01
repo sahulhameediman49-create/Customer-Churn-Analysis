@@ -27,4 +27,4 @@ This is an end-to-end Data Analytics project that analyzes customer churn using 
 
 ## 📊 Dashboard Preview
 
-![Dashboard](Dashboard )
+![Dashboard](Dashboard  /Customer_Churn Dashboard.png)
